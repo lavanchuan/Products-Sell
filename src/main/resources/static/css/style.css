@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(210, 200, 200);
+    transition: 0.5s ease-in-out;
+}
+
+h1:hover {
+    color: rgb(255, 0, 0);
+}
